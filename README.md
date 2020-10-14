@@ -1,4 +1,4 @@
 # mtg_proposal
 
-# LINK TO API:
+LINK TO API:
 https://docs.magicthegathering.io/
